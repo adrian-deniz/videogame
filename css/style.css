@@ -1,0 +1,12 @@
+html, body {
+  margin: 0px;
+}
+
+canvas {
+  display: block;
+}
+
+#scenery {
+  background: url(../img/scenery.png);
+  background-size: cover;
+}
